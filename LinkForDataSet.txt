@@ -1,0 +1,4 @@
+The Dataset consists of 78,000 news samples, out of which around 40,000 are True and around 38,000 are False.
+
+
+https://www.kaggle.com/datasets/sreechrn/fake-news-detection-78k
